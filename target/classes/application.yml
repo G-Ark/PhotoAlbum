@@ -1,0 +1,14 @@
+album:
+  seed:
+    api: https://jsonplaceholder.typicode.com/albums
+
+photo:
+  listing:
+    api: https://jsonplaceholder.typicode.com/photos
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: typicode
